@@ -2,6 +2,7 @@
 - android-inventory-library
 - android-mdm-agent
 - android-mdm-dashboard
+- android-mdm-library
 - backend-tests
 - blackberry-inventory-agent
 - blackberry-inventory-library
@@ -18,6 +19,7 @@
 - ios-mdm-agent
 - ios-mdm-dashboard
 - legacy-web-dashboard
+- malwarescanner
 - web-mdm-dashboard
 - windows-inventory-agent
 - windows-inventory-library
