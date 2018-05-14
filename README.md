@@ -5,7 +5,6 @@
 [![License AGPL 3.0](https://img.shields.io/badge/License-AGPL%203.0-blue.svg)](https://github.com/flyve-mdm/android-mdm-library/blob/develop/LICENSE.md)
 [![IRC Chat](https://img.shields.io/badge/IRC-%23flyvemdm-green.svg)](http://webchat.freenode.net/?channels=flyve-mdm)
 [![Telegram Community](https://img.shields.io/badge/Telegram-Community-blue.svg)](https://t.me/flyvemdm)
-[![Telegram Contributors](https://img.shields.io/badge/Telegram-Contributors-blue.svg)](https://t.me/flyvemdmdev)
 [![Follow twitter](https://img.shields.io/badge/Twitter-Flyve%20MDM-2d8783.svg)](https://twitter.com/FlyveMDM)
 [![Project Status: Concept](http://www.repostatus.org/badges/latest/concept.svg)](http://www.repostatus.org/#concept)
 [![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-yellow.svg)](https://conventionalcommits.org)
